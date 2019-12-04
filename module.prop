@@ -1,7 +1,7 @@
 id=optmizedgpsconf
 name=Global Optimized GPS File Replacer
-version=v6
-versionCode=6
+version=v6.1
+versionCode=6.1
 author=ianhughes74 and lazerl0rd
 description=This module replaces the default GPS copnfiguration file with one set for faster locking and more accurate 
 positioning.
