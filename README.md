@@ -66,5 +66,8 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 - Remove bogus C2K PDE server
 - Add support for multi-SIM Chinese devices
 
+#### Version 6
+- Remove dead NTP server address
+
 ## Links
 - [GitHub Module Page](https://github.com/Magisk-Modules-Repo/optmizedgpsconf)
